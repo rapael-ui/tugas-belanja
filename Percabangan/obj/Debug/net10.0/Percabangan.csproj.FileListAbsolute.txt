@@ -1,0 +1,15 @@
+C:\Users\fafaf\Documents\Percabangan\Percabangan\obj\Debug\net10.0\Percabangan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fafaf\Documents\Percabangan\Percabangan\obj\Debug\net10.0\Percabangan.AssemblyInfoInputs.cache
+C:\Users\fafaf\Documents\Percabangan\Percabangan\obj\Debug\net10.0\Percabangan.AssemblyInfo.cs
+C:\Users\fafaf\Documents\Percabangan\Percabangan\obj\Debug\net10.0\Percabangan.csproj.CoreCompileInputs.cache
+C:\Users\fafaf\Documents\Percabangan\Percabangan\bin\Debug\net10.0\Percabangan.exe
+C:\Users\fafaf\Documents\Percabangan\Percabangan\bin\Debug\net10.0\Percabangan.deps.json
+C:\Users\fafaf\Documents\Percabangan\Percabangan\bin\Debug\net10.0\Percabangan.runtimeconfig.json
+C:\Users\fafaf\Documents\Percabangan\Percabangan\bin\Debug\net10.0\Percabangan.dll
+C:\Users\fafaf\Documents\Percabangan\Percabangan\bin\Debug\net10.0\Percabangan.pdb
+C:\Users\fafaf\Documents\Percabangan\Percabangan\obj\Debug\net10.0\Percabangan.dll
+C:\Users\fafaf\Documents\Percabangan\Percabangan\obj\Debug\net10.0\refint\Percabangan.dll
+C:\Users\fafaf\Documents\Percabangan\Percabangan\obj\Debug\net10.0\Percabangan.pdb
+C:\Users\fafaf\Documents\Percabangan\Percabangan\obj\Debug\net10.0\Percabangan.genruntimeconfig.cache
+C:\Users\fafaf\Documents\Percabangan\Percabangan\obj\Debug\net10.0\ref\Percabangan.dll
+C:\Users\fafaf\Documents\Percabangan\Percabangan\obj\Debug\net10.0\Percaban.A572AEF7.Up2Date

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Percabangan": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
